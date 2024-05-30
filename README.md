@@ -1,6 +1,6 @@
 # PointNet PyTorch
 
-This repository contains a PyTorch implementation of PointNet, a neural network architecture for point cloud classification and segmentation. The project is inspired by [fxia22's PointNet PyTorch implementation](https://github.com/fxia22/pointnet.pytorch).
+This repository contains a PyTorch implementation of PointNet, a neural network architecture for point cloud classification and segmentation. The project is a kind of private learning project studied from [fxia22's PointNet PyTorch implementation](https://github.com/fxia22/pointnet.pytorch).
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -22,4 +22,4 @@ pointnet_pytorch/
 ```
 
 ## Acknowledgements
-This project is inspired by the PointNet PyTorch implementation by fxia22(https://github.com/fxia22/pointnet.pytorch). Special thanks to the authors for their great work and contributions to the community.
+Have learned a lot from the PointNet PyTorch implementation by fxia22(https://github.com/fxia22/pointnet.pytorch). Special thanks to the authors for their great work and contributions to the community.
