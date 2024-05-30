@@ -19,6 +19,7 @@ pointnet_pytorch/
 ├── train_segmentation.py     # Script for training all classes for segmentation
 ├── XXX.pth                   # Pre-trained model of different class for segmentation
 ├── README.md                 # Project documentation
+```
 
 ## Acknowledgements
 This project is inspired by the PointNet PyTorch implementation by fxia22(https://github.com/fxia22/pointnet.pytorch). Special thanks to the authors for their great work and contributions to the community.
